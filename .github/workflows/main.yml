@@ -6,5 +6,5 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      - name: user@example.com
+      - name: daniel.putta@gramener.com
         run: echo "Hello, world!"
